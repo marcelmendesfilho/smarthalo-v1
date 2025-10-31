@@ -141,7 +141,8 @@ SOFTWARE.
 
 ## 📧 Contact
 
-[Your contact information or preferred method of communication]
+high_lander@mastodon.social on Mastodon
+no X, Instagram or other social network account
 
 ---
 
