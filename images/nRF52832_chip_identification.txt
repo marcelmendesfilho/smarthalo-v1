@@ -1,0 +1,16 @@
+Based on the marking "N52832 QFAAB0 1651EX", this is a Nordic Semiconductor nRF52832 chip.
+Here's the breakdown:
+
+N52832 = nRF52832 (Nordic's naming convention on the chip marking)
+QFAAB0 = Package variant code (QF = QFN package, AA = specific variant/revision)
+1651EX = Date code and lot tracing information (week 51 of 2016, lot EX)
+
+The nRF52832 is a:
+
+Bluetooth Low Energy (BLE) 5.0 system-on-chip (SoC)
+ARM Cortex-M4F processor with 64 MHz
+512 KB Flash and 64 KB RAM
+Multi-protocol 2.4 GHz radio (supports BLE, ANT, and proprietary protocols)
+Very popular in wearables, IoT devices, wireless sensors, and smart home products
+
+This is one of Nordic's most widely used BLE chips and is commonly found in fitness trackers, smart watches, wireless earbuds, and many consumer IoT devices.
