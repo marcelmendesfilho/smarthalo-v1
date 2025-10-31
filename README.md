@@ -146,6 +146,26 @@ no X, Instagram or other social network account
 
 ---
 
+## My apps on AppStore
+
+SubsTracker+ - Subscriptions management and tracking
+https://apps.apple.com/br/app/substracker/id6752960454?l=en-US
+
+FuelTracker+ - Gas & Mileage tracking on iOS, MacOS and VisionOS
+https://apps.apple.com/br/app/fuel-tracker-gas-mileage/id6476114668?l=en-US
+
+Find Bluetooth - Bluetooth LE device tracking
+https://apps.apple.com/br/app/find-bluetooth/id1456289142?l=en-US
+
+WatchCalendar - Highly customizable calendar skin on Apple Watch
+https://apps.apple.com/br/app/watch-calendar-monthly/id1453181433?l=en-US
+
+Voice Memo Recorder for iPhone, iPad and Apple Watch
+https://apps.apple.com/br/app/voice-memo-recorder-pro/id1385001234?l=en-US
+
+
+---
+
 **Status**: 🔄 Active Development
 
 **Last Updated**: October 2025
